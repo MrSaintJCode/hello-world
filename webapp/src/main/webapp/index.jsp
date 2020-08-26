@@ -1,7 +1,1 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> This is another test with Jenkins SCM and Docker </h2>
-
-<p> Welcome , to another test !</p>
-
-<h1> Hello :) ! </h1>
+<h1> This is being pushed by Jenkins, Ansible and Docker </h1>
